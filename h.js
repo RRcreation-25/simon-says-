@@ -1,3 +1,4 @@
+//ravi ranjan
 let gameSeq = [];
 let userSeq = [];
 
@@ -81,3 +82,4 @@ function reset() {
   level = 0;
 
 }
+
